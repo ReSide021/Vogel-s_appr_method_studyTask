@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\FogelModel\FogelModel\bin\Debug\FogelModel.exe.config
+C:\Users\admin\Desktop\FogelModel\FogelModel\bin\Debug\FogelModel.exe
+C:\Users\admin\Desktop\FogelModel\FogelModel\bin\Debug\FogelModel.pdb
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.Form1.resources
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.Properties.Resources.resources
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.exe
+C:\Users\admin\Desktop\FogelModel\FogelModel\obj\Debug\FogelModel.pdb
